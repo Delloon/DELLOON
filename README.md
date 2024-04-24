@@ -1,1 +1,1 @@
-[![Header](https://github.com/Delloon/DELLOON/blob/main/assets/header.png)]
+[![Header](https://github.com/Delloon/DELLOON/blob/main/assets/header.png)](https://vk.com/delloonit)
