@@ -1,1 +1,1 @@
-<img src="https://github.com/Delloon/DELLOON/blob/master/assets/header.png" alt="The Unlimited" width="180"/>
+<img src="https://github.com/Delloon/DELLOON/blob/main/assets/header.png" alt="The Unlimited" width="180"/>
