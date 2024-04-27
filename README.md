@@ -1,4 +1,4 @@
-[![Header](https://github.com/Delloon/DELLOON/blob/main/assets/header.png)](https://vk.com/delloonit)
+[![Header](https://github.com/Delloon/DELLOON/blob/main/assets/head.gif)](https://vk.com/delloonit)
 
 Hi. My name is DELLOON, I'm a programmer, game developer and author of a YouTube channel dedicated to the world of GameDev.
 
