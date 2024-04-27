@@ -17,12 +17,10 @@ Hi. My name is DELLOON, I'm a programmer, game developer and author of a YouTube
 
 ### My achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=DELLOON&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### My statistics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DELLOON&show_icons=true&theme=dracula)
 
 ### My Social Media:
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/c/DELLOON)
