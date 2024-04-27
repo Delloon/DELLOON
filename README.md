@@ -1,5 +1,7 @@
 [![Header](https://github.com/Delloon/DELLOON/blob/main/assets/header.png)](https://vk.com/delloonit)
 
+Hi. My name is DELLOON, I'm a programmer, game developer and author of a YouTube channel dedicated to the world of GameDev.
+
 ### 🌐On the road to creating a game development studio.
 
 <br>
@@ -13,8 +15,16 @@
 ![CSharp](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=CSharp&logoColor=FFFF)
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity&logoColor=FFFF)
 
+### My achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+### My statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
 ### My Social Media:
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/c/DELLOON)
 [![Vk](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/delloonit)
-[![STEAM](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=1195F5)](https://steamcommunity.com/id/delloon/)
+[![STEAM](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=FFF)](https://steamcommunity.com/id/delloon/)
