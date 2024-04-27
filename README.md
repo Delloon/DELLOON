@@ -6,7 +6,7 @@ Hi. My name is DELLOON, I'm a programmer, game developer and author of a YouTube
 
 <br>
 
-### Languages and Tools:
+### ⚙️ Languages and Tools:
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-090909?style=for-the-badge&logo=Android&logoColor=FFFF)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)
@@ -20,14 +20,14 @@ Hi. My name is DELLOON, I'm a programmer, game developer and author of a YouTube
 ![Photoshop](https://img.shields.io/badge/-ADOBE_PHOTOSHOP-090909?style=for-the-badge&logo=adobe%20photoshop&logoColor=fff)
 
 
-### My achievements
+### 🏅 My achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DELLOON&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-### My statistics
+### 🔥 My statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DELLOON&show_icons=true&theme=dracula)
 
-### My Social Media:
+### 💎 My Social Media:
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/c/DELLOON)
 [![Vk](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/delloonit)
 [![STEAM](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=fff)](https://steamcommunity.com/id/delloon/)
